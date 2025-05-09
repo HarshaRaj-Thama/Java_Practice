@@ -1,0 +1,7 @@
+org\example\controller\PingController.class
+org\example\Application.class
+org\example\rest\StudentNotFoundException.class
+org\example\StreamLambdaHandler.class
+org\example\entity\Student.class
+org\example\rest\StudentErrorResponse.class
+org\example\rest\StudentRestController.class
